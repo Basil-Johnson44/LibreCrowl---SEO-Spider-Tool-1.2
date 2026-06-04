@@ -2,6 +2,8 @@
 This tool is used to find issues and link maping, This tool is made for Digital Marketing People,  this tool is a small upgrade from the orginal tool made by r/TechSEO
 https://www.reddit.com/r/TechSEO/comments/1p049bi/i_got_frustrated_with_screamingfrog_crawler/
 
+I have converted it into .exe file
+
 The Features I added 
 
 Page ranging by Key words
